@@ -2,7 +2,7 @@
 
 Author: Matthew Parker
 
-This package impliments forward-mode automatic differentiation using parameteric dual numbers
+This package implements forward-mode automatic differentiation using parameteric dual numbers
 
 This package supports:
 - First-order derivatives
@@ -14,8 +14,8 @@ This package supports:
 A dual number is defined as:
 x + εx'
 where ε² = 0
-It is possible to preform automatic differentiation by propogating derivatives through arithemetic
-The nesting of the dual numbers allows higher order derivatives to be taken
+It is possible to perform automatic differentiation by propagating derivatives through arithmatic
+The nesting of the dual numbers allows higher-order derivatives to be taken
 
 ---
 
